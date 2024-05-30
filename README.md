@@ -108,5 +108,5 @@ Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
 
 Esse projeto não está aberto para contribuições, é apenas uma demonstração dos conhecimentos adquiridos durante a jornada.
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
-[![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/9013515e-e08a-4b3b-af92-5ae9ad7da671)](https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/Certificações.md)
+[![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/9013515e-e08a-4b3b-af92-5ae9ad7da671)](https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/scre/Certificações.md)
 
