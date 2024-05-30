@@ -79,6 +79,9 @@
 <a href="https://www.dio.me/certificate/SQTALLPQ/share">
    <img src="https://hermes.dio.me/courses/badge/945455e9-c109-4c97-bbfa-c19921a1a848.png" alt="Projeto 1" width="75" >
 </a>
+<a href="https://www.dio.me/certificate/W8LS7KOT/share">
+   <img src="https://hermes.dio.me/lab_projects/badges/c3f91fdb-0f9b-4375-9219-b31ce8238f5b.png" alt="Projeto 1" width="75" >
+</a>
 <a href="">
    <img src="" alt="Projeto 1" width="75" >
 </a>
