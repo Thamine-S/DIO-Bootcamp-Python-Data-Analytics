@@ -46,7 +46,7 @@ Trabalha os fundamentos e a estrutura de um banco de dados não relacional, com 
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/cd0ec6a0-c01e-445b-88c0-c78bf418418f" alt="Redis DB" width="100" >
 </a>
 
-![Divisor](https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
+![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
 ### PowerBI
 <br>
 
