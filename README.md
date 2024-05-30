@@ -49,12 +49,12 @@ Trabalha os fundamentos e a estrutura de um banco de dados não relacional, com 
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
 ### PowerBI
 Abordando desde boas práticas na utilização de bancos de dados SQL utilizando o DBeaver e a introdução ao conceito de Business Inteligence até a criação do seu primeiro Dashboard dentro do Power BI, esse módulo habilita o aluno a utilizar esse software para criação de relatórios e dashboards interativos, explorando todas as ferramentas, e esclarecendo diversos conceitos dentro da área de dados, como principais carreiras, etapas dentro da utilização de dados. <br>
-Para conclusão do módulo são propostos projetos a serem executados dentro do Power BI utilizando os conhecimentos adquiridos:
+Para conclusão do módulo é proposto um projeto a ser executado dentro do Power BI utilizando os conhecimentos adquiridos:
 <br>
 [Relatório - Power BI](https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/scre/Projeto-Power-BI.md)
 <br>
-[Dashboard - Power BI]()
-<br>
+<!---[Dashboard - Power BI]()
+<br>--->
 
 <a href="https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#dbeaver">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/f84f5042-5437-4477-af4a-2b1309c84fc0" alt="DBeaver" width="100" >
