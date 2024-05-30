@@ -28,10 +28,10 @@ Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Pyt
 ### Banco de dados SQL
 Trabalha os fundamentos e a estrutura de um banco de dados relacional, por meio da utilização do PHPMyAdmin, uma ferramenta de administração de bancos de dados, foi possível colocar em prática a utilização das funcionalidades CRUDE, DQL, DML, DDL e DCL, projetando e criando um Banco de Dados Maria DB, passando desda modelagem, até a inserção e consulta de dados.
 <br>
-<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#phpmyadmin">
+<a href="https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#phpmyadmin">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/d1afd90b-f5e2-4fe0-9d38-8e5e499c165f" alt="PHPMyAdmin" width="100" >
 </a>
-<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#mariadb">
+<a href="https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#mariadb">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/a49521b8-5ddb-42fe-994c-f2a47f7c6e5b" alt="Maria DB" width="100" >
 </a>
 
@@ -39,24 +39,24 @@ Trabalha os fundamentos e a estrutura de um banco de dados relacional, por meio 
 ### Banco de dados NoSQL
 Trabalha os fundamentos e a estrutura de um banco de dados não relacional, com foco na introdução do banco de dados Mongo DB, orientado por documentos, por meio da utilização do Mongo DB Comppas, um administrador de banco de dados do sistema Mongo DB, foi possível colocar em prática desda criação de documentos JSON, até a realização de consultas. Também fornece uma breve introdução ao Redis DB, destacando suas principais características e comandos.
 <br>
-<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#mongodb">
+<a href="https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#mongodb">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/bbe19dff-23ad-4e75-9d40-871935d308b7" alt="Mongo DB" width="50" >
 </a>
-<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#redis-db">
+<a href="https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#redis-db">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/cd0ec6a0-c01e-445b-88c0-c78bf418418f" alt="Redis DB" width="100" >
 </a>
 
-![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
+![Divisor](https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
 ### PowerBI
 <br>
 
-<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#dbeaver">
+<a href="https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#dbeaver">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/f84f5042-5437-4477-af4a-2b1309c84fc0" alt="DBeaver" width="100" >
 </a>
-<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#sqlite">
+<a href="https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#sqlite">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/f95be064-1b75-458c-be00-d00638098a4a" alt="SQLite" width="100" >
 </a>
-<a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#power-bi">
+<a href="https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#power-bi">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/48acacb9-b83d-4acb-a21b-7ae1a86ee52b" alt="Power BI" width="50" >
 </a>
 
@@ -100,7 +100,7 @@ O objetivo principal deste projeto é desenvolver habilidades em Python, por mei
 Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
 
 1. Clone este repositório para o seu ambiente local usando `git clone`.
-2. Instale as dependências necessárias listadas no arquivo [`requirements.md`](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/requirements.md).
+2. Instale as dependências necessárias listadas no arquivo [`requirements.md`](https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/requirements.md).
 3. Execute os códigos para reproduzir os resultados ou fazer modificações conforme necessário.
 
    
@@ -108,5 +108,5 @@ Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
 
 Esse projeto não está aberto para contribuições, é apenas uma demonstração dos conhecimentos adquiridos durante a jornada.
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
-[![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/9013515e-e08a-4b3b-af92-5ae9ad7da671)](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/blob/main/Certificações.md)
+[![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/9013515e-e08a-4b3b-af92-5ae9ad7da671)](https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/Certificações.md)
 
