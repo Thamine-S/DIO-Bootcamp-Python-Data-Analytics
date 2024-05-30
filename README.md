@@ -48,6 +48,10 @@ Trabalha os fundamentos e a estrutura de um banco de dados não relacional, com 
 
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
 ### PowerBI
+Abordando desde boas práticas na utilização de bancos de dados SQL utilizando o DBeaver e a introduçção ao conceito de Business Inteligence até a criação do seu primeiro Dashboard dentro do Power BI, esse módulo habilita o aluno à utilizar esse software para criação de relátórios e dashboards interativos, explorando todas as ferramentas, e esclarecendo diversos conceitos dentro da área de dados, commo principais carreiras, etapas dentro da utilização de dados.
+Para conclusão do módulo são propostos projetos a serem executados dentro do Power BI:
+[Relatório - Power BI](https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/scre/Projeto-Power-BI.md)
+[Dashboard - Power BI]()
 <br>
 
 <a href="https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/ferramentas.md#dbeaver">
@@ -61,7 +65,7 @@ Trabalha os fundamentos e a estrutura de um banco de dados não relacional, com 
 </a>
 
 ![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
-<!---### Machine Learning--->
+### Machine Learning
 
 
 <!---![Objetivo](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/a5701b05-926d-472d-b67f-ae087f45f5ca)
@@ -69,31 +73,6 @@ Trabalha os fundamentos e a estrutura de um banco de dados não relacional, com 
 
 O objetivo principal deste projeto é desenvolver habilidades em Python, por meio da prática. --->
 
-![Projetos do Bootcamp](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/f53ca277-b023-4991-a64d-319cd92e96ac)
-
-<!---<a href="">
-   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/e9e870ca-d6f8-4c3c-bf28-86f31393b4dc" alt="Projeto 1" width="75" >
-</a>
-
-[nome do projeto](link) - Explicação do projeto
-
-<a href="">
-   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/9490add0-2fe2-4f48-a3bd-7f0651ebfe0f" alt="Projeto 2" width="75" >
-</a>
-
-[nome do projeto](link) - Explicação do projeto
-
-<a href="">
-   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/e677a0bd-f628-4ec6-ae62-9ed75ed69f63" alt="Projeto 3" width="75" >
-</a>
-
-[nome do projeto](link) - Explicação do projeto
-
-<a href="">
-   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/d29d89c2-033f-4071-9edc-367937fca5dd" alt="Projeto 4" width="75" >
-</a>
-
-[nome do projeto](link) - Explicação do projeto--->
 
 ![Como Utilizar](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/dcb5a5f1-c50e-4d16-8707-a5aa6aa15132)
 
