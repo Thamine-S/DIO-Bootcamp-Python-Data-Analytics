@@ -70,4 +70,16 @@
 <a href="https://www.dio.me/certificate/EFH1MNBF/share">
    <img src="https://hermes.dio.me/courses/badge/471f31f9-e88d-431a-ad16-f6c6fffac20d.png" alt="Projeto 1" width="75" >
 </a>
+<a href="https://www.dio.me/certificate/33EAUUO7/share">
+   <img src="https://hermes.dio.me/courses/badge/945455e9-c109-4c97-bbfa-c19921a1a848.png" alt="Projeto 1" width="75" >
+</a>
+<a href="https://www.dio.me/certificate/COUPLXM3/share">
+   <img src="https://hermes.dio.me/courses/badge/945455e9-c109-4c97-bbfa-c19921a1a848.png" alt="Projeto 1" width="75" >
+</a>
+<a href="https://www.dio.me/certificate/SQTALLPQ/share">
+   <img src="https://hermes.dio.me/courses/badge/945455e9-c109-4c97-bbfa-c19921a1a848.png" alt="Projeto 1" width="75" >
+</a>
+<a href="">
+   <img src="" alt="Projeto 1" width="75" >
+</a>
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/c58ee7a8-66ea-4401-ae4a-386888c396d5)
