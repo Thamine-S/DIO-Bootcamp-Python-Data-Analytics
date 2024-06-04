@@ -17,8 +17,12 @@
 </div>
 <br><br>
 <div align="center">
-<a href="https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/scre/Projeto%20Power%20BI.pbix">
+<a href="https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/scre/requirements%20.md">
+  <img src="https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/assets/171283820/63ae5bba-04a9-49c6-b6e6-70fdebadfed9" width="175">
+</a>
+  <a href="https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/scre/Projeto%20Power%20BI.pbix">
   <img src="https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/assets/171283820/f0a856b1-1950-4d04-92ec-463d77c055ae" width="200">
 </a>
+
 </div>
 
