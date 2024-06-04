@@ -75,15 +75,6 @@ Para conclusão do módulo é proposto um projeto a ser executado dentro do Powe
 
 O objetivo principal deste projeto é desenvolver habilidades em Python, por meio da prática. --->
 
-
-![Como Utilizar](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/dcb5a5f1-c50e-4d16-8707-a5aa6aa15132)
-
-Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
-
-1. Clone este repositório para o seu ambiente local usando `git clone`.
-2. Instale as dependências necessárias listadas no arquivo [`requirements.md`](https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/srce/requirements.md).
-3. Execute os códigos para reproduzir os resultados ou fazer modificações conforme necessário.
-
    
 ![Contribuições](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/898318be-582b-42bd-a266-1c1a33375485)
 
