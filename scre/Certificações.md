@@ -89,4 +89,4 @@
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/c58ee7a8-66ea-4401-ae4a-386888c396d5)
 <a href="">
    <img src="" alt="Projeto 1" width="75" >
-</a
+</a>
