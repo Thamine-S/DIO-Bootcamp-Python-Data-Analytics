@@ -88,5 +88,29 @@
 
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/c58ee7a8-66ea-4401-ae4a-386888c396d5)
 <a href="">
-   <img src="" alt="Projeto 1" width="75" >
+   <img src="https://hermes.dio.me/courses/badge/e221ec7c-7ddb-4be2-9975-9067dc61245d.png" alt="Projeto 1" width="75" >
+</a>
+<a href="">
+   <img src="https://hermes.dio.me/courses/badge/e221ec7c-7ddb-4be2-9975-9067dc61245d.png" alt="Projeto 1" width="75" >
+</a>
+<a href="">
+   <img src="https://hermes.dio.me/courses/badge/e221ec7c-7ddb-4be2-9975-9067dc61245d.png" alt="Projeto 1" width="75" >
+</a>
+<a href="">
+   <img src="https://hermes.dio.me/courses/badge/e221ec7c-7ddb-4be2-9975-9067dc61245d.png" alt="Projeto 1" width="75" >
+</a>
+<a href="">
+   <img src="https://hermes.dio.me/courses/badge/e221ec7c-7ddb-4be2-9975-9067dc61245d.png" alt="Projeto 1" width="75" >
+</a>
+<a href="">
+   <img src="https://hermes.dio.me/courses/badge/e221ec7c-7ddb-4be2-9975-9067dc61245d.png" alt="Projeto 1" width="75" >
+</a>
+<a href="">
+   <img src="https://hermes.dio.me/courses/badge/db6a1d02-a132-45c1-8c8d-d961130b1e1b.png" alt="Projeto 1" width="75" >
+</a>
+<a href="">
+   <img src="https://hermes.dio.me/courses/badge/db6a1d02-a132-45c1-8c8d-d961130b1e1b.png" alt="Projeto 1" width="75" >
+</a>
+<a>
+   <img src="https://hermes.dio.me/code_challenge/badge/ffb4621f-b002-4ac0-b72b-18d37989f3e8.png" alt="Projeto 1" width="75" >
 </a>
