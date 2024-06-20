@@ -87,10 +87,10 @@
 </a>
 
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/c58ee7a8-66ea-4401-ae4a-386888c396d5)
-<a href="">
+<a href="https://www.dio.me/certificate/SALYMGIP/share">
    <img src="https://hermes.dio.me/courses/badge/e221ec7c-7ddb-4be2-9975-9067dc61245d.png" alt="Projeto 1" width="75" >
 </a>
-<a href="">
+<a href="https://www.dio.me/certificate/E6P4KVXJ/share">
    <img src="https://hermes.dio.me/courses/badge/e221ec7c-7ddb-4be2-9975-9067dc61245d.png" alt="Projeto 1" width="75" >
 </a>
 <a href="">
