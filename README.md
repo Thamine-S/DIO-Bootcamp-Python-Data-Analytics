@@ -77,6 +77,6 @@ O objetivo principal deste projeto é desenvolver habilidades em Python, por mei
 
    
 
-<!---![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)--->
+![Divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/0b8e0454-096b-461d-aa13-8074501ca359)
 [![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/9013515e-e08a-4b3b-af92-5ae9ad7da671)](https://github.com/Thamine-S/DIO-Bootcamp-Python-Data-Analytics/blob/main/scre/Certificações.md)
 
